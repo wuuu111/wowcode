@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Local config & data
+.wowcode/
+.claude/
+CLAUDE.md
+.DS_Store
+*.log
+
+# Not for public repo
+章节讲解/
+tests/
+resume-*.md
+WOWCODE.md
+example-com-snapshot.md
