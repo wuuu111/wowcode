@@ -1,7 +1,8 @@
-<<<<<<< HEAD
-1
-直接下载，到对应目录下运行
-python-m wowcode即可
+<<<<<<< 
+直接下载，设置好配置文件
+到对应目录下运行
+python-m wowcode
+即可
 =======
 # WowCode
 
